@@ -53,6 +53,7 @@ const Home: BlitzPage = () => {
   return (
     <div className="container">
       <main>
+        <h1>Hello, world!</h1>
         <div className="logo">
           <img src="/logo.png" alt="blitz.js" />
         </div>
